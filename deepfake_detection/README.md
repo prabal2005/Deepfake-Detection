@@ -125,9 +125,9 @@ python utils/gradcam.py --image path/to/face.jpg --checkpoint results/best_model
 
 | Metric | Custom CNN | ResNet50 |
 |--------|-----------|---------|
-| Accuracy | ~88% | ~93% |
-| AUC-ROC | ~0.92 | ~0.97 |
-| F1-Score | ~0.87 | ~0.93 |
+| Accuracy | ~94.5 | ~93% |
+| AUC-ROC | ~0.96 | ~0.97 |
+| F1-Score | ~93.1 | ~91.0 |
 
 ---
 
